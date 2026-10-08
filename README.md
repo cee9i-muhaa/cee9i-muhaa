@@ -8,11 +8,13 @@ I'm passionate about game development, from designing gameplay mechanics and bui
 - 🎨 **3D & Design:** Blender, Photoshop
 - 🕹️ **Interests:** Game Design, Gameplay Programming & 3D Environments
 - 🚀 Always learning, experimenting, and working on new ideas.
-
+  
+- 🎮 **itch.io:** [My Games & Projects}(https://cee9i.itch.io/)
+  
 ### 🌐 Connect With Me
 - **Discord:**   user : cee9i      / (https://discord.com/users/1055508002007961630)
 
-- 🎮 **itch.io:** [My Games & Projects}(https://cee9i.itch.io/)
+
 
 
 
