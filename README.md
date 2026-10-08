@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hey, I'm Muhammad! 👋
+
+**Game Developer | Creating Worlds & Interactive Experiences**
+
+I'm passionate about game development, from designing gameplay mechanics and building interactive worlds to bringing creative ideas to life.
+
+- 🎮 **Game Engines:** Unity & Unreal Engine
+- 🎨 **3D & Design:** Blender, Photoshop
+- 🕹️ **Interests:** Game Design, Gameplay Programming & 3D Environments
+- 🚀 Always learning, experimenting, and working on new ideas.
+
+### 🌐 Connect With Me
+- **Discord:**   user : cee9i      /      https://discord.com/users/1055508002007961630
+
+
 
 <!--
 **cee9i-muhaa/cee9i-muhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
