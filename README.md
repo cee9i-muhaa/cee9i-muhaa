@@ -10,7 +10,9 @@ I'm passionate about game development, from designing gameplay mechanics and bui
 - 🚀 Always learning, experimenting, and working on new ideas.
 
 ### 🌐 Connect With Me
-- **Discord:**   user : cee9i      /      https://discord.com/users/1055508002007961630
+- **Discord:**   user : cee9i      / (https://discord.com/users/1055508002007961630)
+
+- 🎮 **itch.io:** [My Games & Projects}(https://cee9i.itch.io/)
 
 
 
